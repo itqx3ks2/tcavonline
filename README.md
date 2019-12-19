@@ -11,7 +11,13 @@
       </ul>
 </div>
 
-<div class="field "><h4 class="title">收藏地址发布页</h4><ul><li><a href="https://itqx3ks2.github.io/tcavonline/" target="_blank">https://itqx3ks2.github.io/tcavonline/</a></li><li><a href="https://itqx3ks2.github.io/tcavonline/" target="_blank">http://1y10c.com/</a></li></ul></div>
+<div class="field ">
+<h4 class="title">收藏地址发布页</h4>
+      <ul>
+            <li><a href="https://itqx3ks2.github.io/tcavonline/" target="_blank">https://itqx3ks2.github.io/tcavonline/</a></li>
+            <li><a href="https://itqx3ks2.github.io/tcavonline/" target="_blank">https://itqx3ks2.github.io/tcavonline//</a></li>
+      </ul>
+</div>
 
 <div class="field desc">      
       <h4 class="title">注意事项</h4>
